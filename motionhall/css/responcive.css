@@ -1,0 +1,474 @@
+
+/* (1920x1080) Full HD Display */
+@media only screen and (min-device-width:1365px) and (max-device-width:1920px) {
+    .left-hero h2 {
+        font-size: 98px;
+    }
+    .right-hero p {
+        font-size: 34px;
+    }
+    .hero-btn a {
+        font-size: 28px;
+    }
+    .map {
+        height: 25px;
+        width: 25px;
+    }
+    .map3 {
+        position: absolute;
+        top: 26%;
+        left: 296px;
+    }
+    .map2 {
+        top: 37%;
+        left: 317px;
+    }
+    .map1 {
+        left: 264px;
+    }
+    .map4 {
+        left: 412px;
+    }
+    .map5 {
+        right: 47%;
+        top: 16%;
+    }
+    .map6 {
+        right: 50%;
+        top: 18%;
+    }
+    .map7 {
+        top: 134px;
+       
+    }
+    .map9 {
+        top: 170px;
+      
+    }
+    .map11 {
+        top: 199px;
+        right: 588px;
+    }
+    .map10 {
+        top: 185px;
+        right: 572px;
+        
+    }
+    .map12 {
+        top: 202px;
+        right: 545px;
+    }
+    .map19 {
+        right: 284px;
+        top: 420px;
+    }
+    .map20 {
+        right: 173px;
+        top: 491px;
+    }
+    .map18 {
+        right: 313px;
+       
+    }
+    .map16 {
+        right: 303px;
+        top: 215px;
+    }
+    .map17 {
+        right: 260px;
+        top: 201px;
+    }
+    .meet-btn:after {
+        width: 55%;
+       
+    }
+
+}
+
+/* (1366x768) WXGA Display */
+@media only screen and (min-device-width:1199px) and (max-device-width:1364px){
+    
+}
+
+
+/* laptop */
+@media only screen and (min-device-width:992px) and (max-device-width:1200px){
+    .left-hero h2 {
+        font-size: 86px;
+    }
+    .right-hero p {
+        font-size: 24px;
+    }
+    .map-tittle h2 {
+        font-size: 27px;
+    }
+    .map3 {
+        top: 30%;
+        left: 193px;
+    }
+    .map1 {
+        left: 162px;
+    }
+    .map2 {
+        left: 210px;
+    }
+    .map4 {
+        top: 70%;
+        left: 279px;
+    }
+    .map20 {
+        right: 89px;
+        top: 449px;
+    }
+    .map19 {
+        right: 178px;
+        top: 397px;
+    }
+    .map17 {
+        right: 162px;
+        top: 220px;
+    }
+    .map16 {
+        right: 199px;
+        top: 225px;
+    }
+    .map18 {
+        right: 205px;
+        top: 263px;
+    }
+    .map15 {
+        right: 302px;
+       
+    }
+    .map14 {
+        right: 407px;
+        top: 238px;
+    }
+    .map5 {
+        right: 46%;
+       
+    }
+    .map9 {
+        right: 466px;
+    }
+    .map10 {
+        top: 181px;
+        right: 471px;
+    }
+    .map11 {
+        top: 194px;
+        right: 478px;
+    }
+    .map12 {
+        top: 187px;
+        right: 450px;
+    }
+    .map8 {
+        top: 173px;
+        right: 52%;
+    }
+    .about-right-text h3 {
+        font-size: 30px;
+    }
+    .about-right-part {
+        padding-bottom: 15px;
+    }
+    .meet-btn:after {
+        left: 264px;
+    }
+}
+
+
+/* meadim device */
+@media only screen and (min-device-width:768px) and (max-device-width:991px){
+    .hero-btn a {
+        padding: 8px 8px;
+    }
+    .hero-tittle h2 {
+        font-size: 38px;
+    }
+    .left-hero h2 {
+        font-size: 60px;
+    }
+    .right-hero p {
+        font-size: 22px;
+    }
+    .hero-btn a {
+        font-size: 18px;
+    }
+    .hero-txt p {
+        font-size: 13px;
+    }
+    .map-tittle h2 {
+        font-size: 20px;
+       
+    }
+    .map20 {
+        right: 63px;
+        top: 400px;
+    }
+    .map17 {
+        right: 41px;
+        top: 218px;
+    }
+    .map16 {
+        right: 82px;
+        top: 223px;
+    }
+    .map18 {
+        right: 83px;
+        
+    }
+    .map19 {
+        right: 183px;
+        top: 266px;
+    }
+    .map4 {
+        top: 43%;
+        left: 395px;
+    }
+    .map5 {
+        right: 45%;
+        top: 24%;
+    }
+    .map6 {
+        right: 50%;
+        top: 24%;
+    }
+    .map8 {
+        top: 164px;
+        right: 52%;
+    }
+    .map14 {
+        right: 526px;
+        top: 395px;
+    }
+    .map12 {
+        top: 227px;
+        right: 644px;
+    }
+    .map9 {
+        top: 180px;
+        right: 22rem;
+    }
+    .map10 {
+        top: 190px;
+        right: 360px;
+    }
+    .map11 {
+        top: 201px;
+        right: 368px;
+    }
+    .map1 {
+        top: 35%;
+        left: 341px;
+    }
+    .map2 {
+        top: 39%;
+        left: 92px;
+    }
+    .map3 {
+        top: 13%;
+        left: 234px;
+    }
+    .about-right-text h3 {
+        font-size: 22px;
+    }
+    .about-right-text p {
+        font-size: 12px;
+    }
+    .about-left-part img {
+        height: 451px;
+    }
+    .meet-btn:after {
+        left: 208px;
+        top: 122px;
+    }
+    .meet-btn {
+        margin-bottom: 125px;
+    }
+    .footer-left a, .footer-right a {
+        font-size: 10px;
+    }
+    .footer-area {
+        padding-top: 85px;
+    }
+    .main-footer {
+        margin-bottom: 50px;
+    }
+
+}
+
+/* mobile device */
+@media only screen and (min-device-width:320px) and (max-device-width:767px){
+    .header-bar{
+        display: block;
+    }
+    .offcanvas-manu{
+        display: block;
+    }
+    .left-btn {
+        display: none;
+    }
+    .site-btn {
+        display: none;
+    }
+    .hero-tittle h2 {
+        font-size: 15px;
+    }
+    .main-hero {
+        flex-direction: column;
+    }
+    .left-hero {
+        width: 100%;
+    }
+    .left-hero h2 {
+        font-size: 50px;
+    }
+    .hero-tittle {
+        margin-bottom: 0px;
+    }
+    .right-hero {
+        width: 100%;
+        padding: 0;
+        margin-top: 0;
+        margin-bottom: 40px;
+    }
+    .right-hero p {
+        font-size: 14px;
+        line-height: 30.9px;
+        text-align: center;
+        
+    }
+    section.hero-area {
+        text-align: center;
+    }
+    .hero-btn {
+        text-align: center;
+    }
+    .hero-txt {
+        width: 100%;
+    }
+    .hero-down-btn a {
+        font-size: 15px;
+    }
+    .hero-down-btn {
+        padding: 30px 0px;
+    }
+    .global-reach {
+        padding: 50px 0px;
+    }
+    .line img {
+        width: 155px;
+    }
+
+    .global-txt h3 {
+        font-size: 30px;
+    }
+    .global-txt p {
+        font-size: 12px;
+    }
+    .map-tittle h2 {
+        font-size: 15px;
+    }
+    .map-main-content {
+        margin: 0px 0px;
+    }
+    .map17 {
+        right: 248px;
+        top: 83px;
+    }
+    .map16 {
+        right: 280px;
+        top: 183px;
+    }
+    .map18 {
+        right: 271px;
+        top: 362px;
+    }
+    .map20 {
+        right: 50px;
+        top: 384px;
+    }
+    .map19 {
+        right: 116px;
+        top: 293px;
+    }
+    .map8 {
+        top: 173px;
+        right: 57%;
+    }
+    .map1 {
+        top: 43%;
+        left: 197px;
+    }
+    .map2 {
+        top: 38%;
+        left: 237px;
+    }
+    .map5 {
+        right: 38%;
+        top: 25%;
+    }
+    .map6 {
+        right: 39%;
+        top: 11%;
+    }
+    section.about-area {
+        text-align: center;
+    }
+    .main-about-area {
+        flex-direction: column;
+    }
+    .about-left-part {
+        width: 100%;
+        padding: 50px 0;
+    }
+    .about-right-part {
+        width: 100%;
+        padding: 0;
+    }
+    .about-right-text h3 {
+        font-size: 22px;
+    }
+    .about-right-text p {
+        font-size: 12px;
+    }
+    .footer-area {
+        padding-top: 50px;
+    }
+    .meet-btn a {
+        font-size: 15px;
+        
+    }
+    .meet-btn {
+        margin-bottom: 50px;
+    }
+    .main-footer {
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+    .footer-logo {
+        text-align: center;
+    }
+    .footer-left a, .footer-right a {
+        padding: 10px 5px;
+        display: block;
+        text-align: center;
+    }
+    span.line {
+        display: none;
+    }
+    .last-footer-main {
+        flex-direction: column;
+    }
+    .last-footer a {
+        padding: 10px 5px;
+        display: block;
+        text-align: center;
+    }
+    .lst-right {
+        display: none;
+    }
+
+}
